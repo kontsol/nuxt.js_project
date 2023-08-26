@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "images",
+		"path": "../../images"
+	},
+	{
+		"name": "social-proof-section-master",
+		"path": ".."
+	},
+	{
+		"name": "design",
+		"path": "../../design"
+	}
+],
+  "settings": {}
+}
